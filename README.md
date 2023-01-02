@@ -29,7 +29,7 @@
 <p><a href="https://www.buymeacoffee.com/mohanish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohanish" /></a></p><br><br>
 
 
-<h1 align="center">languageh</h1>
+<h1 align="center">language</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanish7777777&show_icons=true&locale=en&layout=compact" alt="mohanish7777777" /></p>
 
