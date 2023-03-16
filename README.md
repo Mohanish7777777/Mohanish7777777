@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MohanishX1](https://kaipullax.kfakeid9.workers.dev/)
 
-- 🌱 I’m currently learning **about malware**
+- 🌱 I’m currently learning **about Docker*
 
 - 👯 I’m looking to collaborate on [Kaipullax Group](app-kaipullax.derb)
 
