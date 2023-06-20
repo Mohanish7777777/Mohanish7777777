@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **about Docker*
 
-- 👯 I’m looking to collaborate on [Kaipullax Group](app-kaipullax.derb)
+- 👯 I’m looking to collaborate on [Kaipullax Group](https://kaipullax.kfakeid9.workers.dev/)
 
 - 🤝 I’m looking for help with **no - one**
 
-- 👨‍💻 All of my projects are available at [mohanish.me](mohanish.me)
+- 👨‍💻 All of my projects are available at [mohanish.me](https://mohanish7777777.github.io/Mohanish.github.io/)
 
 - 📫 How to reach me **mohnishkumar7777777@gmail.com**
 
