@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanish7777777" alt="mohanish7777777" /></a> </p>
 
-- 🔭 I’m currently working on [MohanishX1](https://kaipullax.kfakeid9.workers.dev/)
+- 🔭 I’m currently working on [MohanishX1](https://#.com)
 
 - 🌱 I’m currently learning **about Docker*
 
-- 👯 I’m looking to collaborate on [Kaipullax Group](https://kaipullax.kfakeid9.workers.dev/)
+- 👯 I’m looking to collaborate on [Kaipullax Group](https://#.com/)
 
 - 🤝 I’m looking for help with **no - one**
 
